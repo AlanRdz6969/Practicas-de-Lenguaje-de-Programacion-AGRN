@@ -1,0 +1,7 @@
+C:\Users\PC15\source\repos\MayorTresNumeros\MayorTresNumeros\bin\Debug\MayorTresNumeros.exe.config
+C:\Users\PC15\source\repos\MayorTresNumeros\MayorTresNumeros\bin\Debug\MayorTresNumeros.exe
+C:\Users\PC15\source\repos\MayorTresNumeros\MayorTresNumeros\bin\Debug\MayorTresNumeros.pdb
+C:\Users\PC15\source\repos\MayorTresNumeros\MayorTresNumeros\obj\Debug\MayorTresNumeros.csproj.AssemblyReference.cache
+C:\Users\PC15\source\repos\MayorTresNumeros\MayorTresNumeros\obj\Debug\MayorTresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\PC15\source\repos\MayorTresNumeros\MayorTresNumeros\obj\Debug\MayorTresNumeros.exe
+C:\Users\PC15\source\repos\MayorTresNumeros\MayorTresNumeros\obj\Debug\MayorTresNumeros.pdb
