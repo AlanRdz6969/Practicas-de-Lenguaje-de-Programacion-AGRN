@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC15\\source\\repos\\MayorDeDosNumeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D496F7-2848-4E87-BCA7-4557FEB29CAE}|MayorDeDosNumeros\\MayorDeDosNumeros.csproj|c:\\users\\pc15\\source\\repos\\mayordedosnumeros\\mayordedosnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D496F7-2848-4E87-BCA7-4557FEB29CAE}|MayorDeDosNumeros\\MayorDeDosNumeros.csproj|solutionrelative:mayordedosnumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC15\\source\\repos\\MayorDeDosNumeros\\MayorDeDosNumeros\\Program.cs",
+              "RelativeDocumentMoniker": "MayorDeDosNumeros\\Program.cs",
+              "ToolTip": "C:\\Users\\PC15\\source\\repos\\MayorDeDosNumeros\\MayorDeDosNumeros\\Program.cs",
+              "RelativeToolTip": "MayorDeDosNumeros\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:35:08.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
