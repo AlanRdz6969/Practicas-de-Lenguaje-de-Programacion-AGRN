@@ -1,0 +1,7 @@
+C:\Users\PC16\source\repos\PruebaSwich\PruebaSwich\bin\Debug\PruebaSwich.exe.config
+C:\Users\PC16\source\repos\PruebaSwich\PruebaSwich\bin\Debug\PruebaSwich.exe
+C:\Users\PC16\source\repos\PruebaSwich\PruebaSwich\bin\Debug\PruebaSwich.pdb
+C:\Users\PC16\source\repos\PruebaSwich\PruebaSwich\obj\Debug\PruebaSwich.csproj.AssemblyReference.cache
+C:\Users\PC16\source\repos\PruebaSwich\PruebaSwich\obj\Debug\PruebaSwich.csproj.CoreCompileInputs.cache
+C:\Users\PC16\source\repos\PruebaSwich\PruebaSwich\obj\Debug\PruebaSwich.exe
+C:\Users\PC16\source\repos\PruebaSwich\PruebaSwich\obj\Debug\PruebaSwich.pdb

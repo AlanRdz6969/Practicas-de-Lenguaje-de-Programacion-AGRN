@@ -15,8 +15,13 @@ namespace MayorDeDosNumeros
 
             if (PrimerValor > SegundoValor)
             {
-                Console.WriteLine("El Numero Mayor es: " + PrimerValor);
-            }
+                case 0:
+                    Console.WriteLine(PrimerValor>SegundoValor);
+                    break;
+                    
+                case 1:
+                    Console.WriteLine(SegundoValor>PrimerValor);
+                    break;
 
             else if (SegundoValor > PrimerValor)
             {
