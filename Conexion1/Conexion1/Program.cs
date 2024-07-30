@@ -20,7 +20,7 @@ namespace Conexion1
         {
             try
             {
-                using (RestClient client = new RestClient("https://api.github.com/users/%3CJonaHdzDev%3E"))
+                using (RestClient client = new RestClient("https://api.github.com/users/%3CAlanRdz6969%3E"))
                 {
                     RestRequest request = new RestRequest();
                     string respuesta;
