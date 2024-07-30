@@ -10,13 +10,13 @@ namespace Conexion1
     {
         static void Main(string[] args)
         {
-            List<OUT> list = GithubApi();
+            List<Cuenta> list = GithubApi();
 
             Console.WriteLine(list[0].message, list[1].documentation_url, list[2].status );
 
         }
 
-        public static List<OUT> GithubApi()
+        public static List<Cuenta> GithubApi()
         {
             try
             {
@@ -27,14 +27,14 @@ namespace Conexion1
                     var response = client.Get(request);
                     respuesta = response.Content;
 
-                    List<OUT> salida = JsonConvert.DeserializeObject<List<OUT>>(respuesta);
+                    List<Cuenta> salida = JsonConvert.DeserializeObject<List<Cuenta>>(respuesta);
 
                     return salida;
                 }
             }
             catch
             {
-                List<OUT> salida = new List<OUT>();
+                List<Cuenta> salida = new List<Cuenta>();
                 return salida;
             }
 
